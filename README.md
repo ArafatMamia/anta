@@ -23,10 +23,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 To learn React native, check out the [React native documentation](https://reactnative.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-![nike_clone](assets\checkout.PNG)
 ## there are three pages
 <img src="assets\productScreen.PNG" alt="Alt text" title="productScreen">
 <img src="assets\detailScreen.PNG" alt="Alt text" title="detailScreen">

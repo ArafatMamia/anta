@@ -1,4 +1,4 @@
-# nike-clone
+# buyShoe
 
 # Getting Started with Create React native app
 

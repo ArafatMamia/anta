@@ -27,3 +27,4 @@ To learn React native, check out the [React native documentation](https://reactn
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 ![My Image](assets\checkout.PNG)
+D:\clone\nike-clone-yt\nike-clone\assets\checkout.PNG

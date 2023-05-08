@@ -1,4 +1,4 @@
-# buyShoe
+# Anta mobile app
 
 # Getting Started with Create React native app
 
